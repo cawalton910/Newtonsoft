@@ -1,0 +1,111 @@
+{
+  "kind": "books#volume",
+  "id": "eAs0FAwb-YIC",
+  "etag": "ksHXMrVvM0Q",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/eAs0FAwb-YIC",
+  "volumeInfo": {
+    "title": "Endless Universe",
+    "subtitle": "Beyond the Big Bang",
+    "authors": [
+      "Paul J. Steinhardt",
+      "Neil Turok"
+    ],
+    "publisher": "Crown",
+    "publishedDate": "2007-05-29",
+    "description": "\u003cb\u003eTwo world-renowned scientists present an audacious new vision of the cosmos that “steals the thunder from the Big Bang theory.” —\u003c/b\u003e\u003ci\u003e\u003cb\u003eWall Street Journal\u003c/b\u003e\u003cbr\u003e\u003c/i\u003e\u003cbr\u003eThe Big Bang theory—widely regarded as the leading explanation for the origin of the universe—posits that space and time sprang into being about 14 billion years ago in a hot, expanding fireball of nearly infinite density. Over the last three decades the theory has been repeatedly revised to address such issues as how galaxies and stars first formed and why the expansion of the universe is speeding up today. Furthermore, an explanation has yet to be found for what caused the Big Bang in the first place.\u003cbr\u003e\u003cbr\u003eIn \u003ci\u003eEndless Universe\u003c/i\u003e, Paul J. Steinhardt and Neil Turok, both distinguished theoretical physicists, present a bold new cosmology. Steinhardt and Turok “contend that what we think of as the moment of creation was simply part of an infinite cycle of titanic collisions between our universe and a parallel world” (\u003ci\u003eDiscover\u003c/i\u003e). They recount the remarkable developments in astronomy, particle physics, and superstring theory that form the basis for their groundbreaking “Cyclic Universe” theory. According to this theory, the Big Bang was not the beginning of time but the bridge to a past filled with endlessly repeating cycles of evolution, each accompanied by the creation of new matter and the formation of new galaxies, stars, and planets.\u003cbr\u003e\u003cbr\u003e\u003ci\u003eEndless Universe\u003c/i\u003e provides answers to longstanding problems with the Big Bang model, while offering a provocative new view of both the past and the future of the cosmos.  It is a “theory that could solve the cosmic mystery” (\u003ci\u003eUSA Today\u003c/i\u003e).",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0385523114"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780385523110"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 256,
+    "printedPageCount": 306,
+    "printType": "BOOK",
+    "categories": [
+      "Science / Space Science / Cosmology",
+      "Science / Physics / Astrophysics",
+      "Science / Space Science / General"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "0.4.2.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=eAs0FAwb-YIC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70r01EV1MLjYTX3BdlVaUBXtG4bWUm2r1qUK5dk3lD4LGnNZgkG_A5biFF9UJo6DVkxKGPSVy7XsWAiMc6gu7wWt44Ia3tWyy97RfnaRsBYrqGnLH4UqokV0jdzJARg2H3TG3vU&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=eAs0FAwb-YIC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70fHagel-upqe0G5ZbgkQCqHCcAWkUKe6EdDZalV6AmFW85H7KGgnKZFNVEXk5fNXlNUzK2gZYw4TBwm6FmiJ0Aj6IkocGU0b7kuMP1NrJeQaXndsdNoV7K9xTcctQ0Ynv2yVqr&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=eAs0FAwb-YIC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE73FCm29wSMbAVCgPxLh576D5tOo4v2-ZopChGU875akiGHPOSkT15uL7cNF5tbc95XpO1OEN9K8iWu2rZ_yYv_D2CWNtlP8MiQL57WLrDvD4J_e1kauHciB9jZtwIzgsBXPOqtY&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=eAs0FAwb-YIC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE717iqDNyFap4VEub91cplewHg23xxa8n596scAs1dbnzmycs9X5hniJm58wQR-2n4IMX2q9PELR3kOYP2janMifBF3xpixZV9cE11_E47gaUkRr05OYnL_5sCM3tr5fYDee-IAJ&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=eAs0FAwb-YIC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE70odLpT490uvCrimXAvgWiiPcM7kli7cGPKg5ofpvxtyH7uUwwLtKx445yRhNtVa6NJjtGAf7KevPG8WZVDeR8W1s8s3p-ihqiXya5zP7dQhMk8jgtAPW2tqU3znsckuL-f1PCL&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=eAs0FAwb-YIC&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=eAs0FAwb-YIC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eAs0FAwb-YIC"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "8"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 13.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 13.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=eAs0FAwb-YIC&rdid=book-eAs0FAwb-YIC&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 13990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 13990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Endless_Universe-sample-epub.acsm?id=eAs0FAwb-YIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Endless_Universe-sample-pdf.acsm?id=eAs0FAwb-YIC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=eAs0FAwb-YIC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

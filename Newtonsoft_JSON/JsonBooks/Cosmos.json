@@ -1,0 +1,75 @@
+{
+  "kind": "books#volume",
+  "id": "7S50PgAACAAJ",
+  "etag": "Py+ApLn5jyg",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/7S50PgAACAAJ",
+  "volumeInfo": {
+    "title": "Cosmos",
+    "authors": [
+      "Carl Sagan"
+    ],
+    "publisher": "Abacus",
+    "publishedDate": "1995",
+    "description": "This work is the story of 15 billion years of cosmic evolution, transforming matter and life into consciousness, how science and civilization grew up together and the forces and individuals who helped shape modern science. The book aims to make scientific ideas accesssible and exciting. It is based on the television series of the same name. Subjects covered include the ancient library of Alexandria, the death of the sun, the evolution of galaxies, space missions and hieroglyphics.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0349107033"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780349107035"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": false
+    },
+    "pageCount": 413,
+    "printedPageCount": 413,
+    "dimensions": {
+      "height": "20.00 cm",
+      "width": "12.70 cm",
+      "thickness": "2.70 cm"
+    },
+    "printType": "BOOK",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "preview-1.0.0",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=7S50PgAACAAJ&printsec=frontcover&img=1&zoom=5&imgtk=AFLRE71bo0D8R73jtB9VD6J91OqeEHCO1JhKKt1E2cmjKU_a9KdpjVmcdwSNXICISOkub9YOMK8YGV-hW-5Na-rIwEyFVg_WX-QS1msGR5PHf_vDffy-u4q6ufGDPX5rFCVYBrQfqmOq&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=7S50PgAACAAJ&printsec=frontcover&img=1&zoom=1&imgtk=AFLRE7195AUCmOP0G2FL4r7JpjVTRSB8YRF-fq-Af0HCeE9YDS4tyWCrXBlo9tq2iBkGET6ecuMEcfShvPsIxpF_YA9dliD4AVIDT9PvdWUZ-3JlTHXqloksgrj6DeKfudGGkMrcZnYd&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=7S50PgAACAAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=7S50PgAACAAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7S50PgAACAAJ"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "NO_PAGES",
+    "embeddable": false,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=7S50PgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "NONE",
+    "quoteSharingAllowed": false
+  }
+}

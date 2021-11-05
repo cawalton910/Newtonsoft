@@ -1,0 +1,112 @@
+{
+  "kind": "books#volume",
+  "id": "JiMCBQAAQBAJ",
+  "etag": "TEp71CRfKLQ",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/JiMCBQAAQBAJ",
+  "volumeInfo": {
+    "title": "Quantum Physics",
+    "authors": [
+      "Marc Humphrey PhD",
+      "Paul V. Pancella PhD",
+      "Norah Berrah, PhD"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2015-01-06",
+    "description": "\u003cp\u003eQuantum physics explores the behavior of matter and energy at the molecular, atomic, nuclear, and even smaller levels. \u003ci\u003eIdiot's Guides: Quantum Physics \u003c/i\u003emakes this very complex topic easy to understand. It skips the complicated math and dives right into all the concepts, paradoxes, thought experiments, and implications that make quantum mechacs so fascinating to armchair science buffs. Topics covered include:\u003cbr\u003e\u003cbr\u003e- Quantum vs. classical physics\u003cbr\u003e- A look at the smallest known particles\u003cbr\u003e- How the tiniest particles behave both as particles and waves\u003cbr\u003e- The famous double-slit experiment\u003cbr\u003e- Quantum wave function\u003cbr\u003e- The Heisenberg Uncertainty Principle\u003cbr\u003e- How particles can be in multiple places at once\u003cbr\u003e- Quantum entanglement\u003cbr\u003e- The Schrodinger's cat thought experiment\u003cbr\u003e- Competing interpretations of quantum physics\u003cbr\u003e- The Copenhagen interpretation and need for an observer\u003cbr\u003e- The role of consciousness in quantum theory\u003cbr\u003e- The Many Worlds interpretation and parallel universes\u003cbr\u003e- Building a quantum computer\u003cbr\u003e- Quantum gravity and the search for a theory of everything\u003c/p\u003e",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "1615643621"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9781615643622"
+      }
+    ],
+    "readingModes": {
+      "text": true,
+      "image": true
+    },
+    "pageCount": 352,
+    "printedPageCount": 386,
+    "printType": "BOOK",
+    "categories": [
+      "Science / Physics / Quantum Theory",
+      "Science / Physics / Atomic & Molecular",
+      "Science / Waves & Wave Mechanics"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": true,
+    "contentVersion": "1.4.4.0.preview.3",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70tw8tg_V63wGuw08hEtIPyRFl2mdsFm4ZDh7fD35Uz7NvJyiLq5hVRb2bG8_3-woCPySx6eDaYu3db1ewjP3QYQ5NJeChKjSdvojYMo8Er2ZB-g2fVCqVPvzUUCDACrtiQNHCs&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71FI-b37f-baklEebRN3_kWI9z-3sl20vB_c7rvBYkU_RtjSX7MeFs6d1nBXNkpsx3PhifXKHNyCpePl5sTd8RbaYJBeX2BwaRQuhSI0bKf8ZlUZiYHWHkR36UZE7B4fqgn-k4Y&source=gbs_api",
+      "small": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE70hNd-dnv8ZUqF8SR0t-IOrg0izloHZQCRjNx4p6rTlrZuybRPEGXm8p9GvsMZkvyyaenQLJ6XxqXyoXIhwwsenkSLYmkr3ETj4RbYZCA7US75L30_VQAkRlLyNhxa0pFNwrtZG&source=gbs_api",
+      "medium": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71yWLyjx-9XPDu-NTIM3YPYuN4eIrpAjmh1ryN5GNQYNIdYZxQuQgVPdPlHoJBbZ06D7LFz5-DNQ_CWx8c1ug3EikZXZtyadrleTIsvCj1wt2UOVemFDPK67DZCBlsXPY5gOuEO&source=gbs_api",
+      "large": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE71ZS9e4l5RWm_PhmfUZEabZ6SVLKxXWp2FRn2RYhWhAJfhn6SncHuM_dI5ZC0-fO9wudej7TMhyP1iANdcY6I8wnnvjz2xxVJgPI8t3yqNwvmSuHf4V23scVSufIyrDBa7BGtEa&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/publisher/content?id=JiMCBQAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70s0_Ydu2bqO0vj33LqE7eEYtrSKbtUAhaowusnsBiOT8NzJH39K4ESXVMK7j9yT2PKWDb-0IpiZe7q--B6ryUJKn7XP23zwITRHnZiDLgqCqagUYXiasUIP2AEPOXIlI09seuq&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=JiMCBQAAQBAJ&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=JiMCBQAAQBAJ&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JiMCBQAAQBAJ"
+  },
+  "layerInfo": {
+    "layers": [
+      {
+        "layerId": "geo",
+        "volumeAnnotationsVersion": "6"
+      }
+    ]
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+      "amount": 1.99,
+      "currencyCode": "USD"
+    },
+    "retailPrice": {
+      "amount": 1.99,
+      "currencyCode": "USD"
+    },
+    "buyLink": "https://play.google.com/store/books/details?id=JiMCBQAAQBAJ&rdid=book-JiMCBQAAQBAJ&rdot=1&source=gbs_api",
+    "offers": [
+      {
+        "finskyOfferType": 1,
+        "listPrice": {
+          "amountInMicros": 1990000,
+          "currencyCode": "USD"
+        },
+        "retailPrice": {
+          "amountInMicros": 1990000,
+          "currencyCode": "USD"
+        },
+        "giftable": true
+      }
+    ]
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Quantum_Physics-sample-epub.acsm?id=JiMCBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+      "isAvailable": true,
+      "acsTokenLink": "http://books.google.com/books/download/Quantum_Physics-sample-pdf.acsm?id=JiMCBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=JiMCBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}

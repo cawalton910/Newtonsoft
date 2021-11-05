@@ -1,0 +1,83 @@
+{
+  "kind": "books#volume",
+  "id": "VdaBBHEGAcMC",
+  "etag": "gOPDRJs/uYU",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/VdaBBHEGAcMC",
+  "volumeInfo": {
+    "title": "Atmospheric Convection",
+    "authors": [
+      "Kerry A. Emanuel",
+      "Director of Center for Meteorology and Physical Oceanography Kerry A Emanuel"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "1994",
+    "description": "This graduate-level meteorology text and reference provides a scientifically rigorous description of the many types of convective circulations in the Earth's atmosphere. These range from small-scale, convectively driven turbulences in the boundary layer to precipitating systems covering many\u003cbr\u003ethousands of square kilometers. The text introduces the principal techniques used in understanding and predicting convective motion: theory, field experiment, and numerical modelling. Part I explores dry convection, including turbulent plumes and thermals from isolated buoyancy sources, \u003cbr\u003eRaleigh-Benard convection, and turbulent convection in the planetary boundary layer. Emphasis is placed on applying theoretical understanding and lessons from experiments. Part II offers a complete treatment of the thermodynamics of moist and cloudy air, including fundamental laws, conserved\u003cbr\u003equantities, graphical techniques, and stability. Part III explores the characteristics of individual convective clouds, thunderstorms, squall lines, mesoscale convective systems, and slantwise convection. Part IV studies the ensemble effects of convective clouds, including stratocumulus at trade\u003cbr\u003ecumulus boundary layers and the representation of convective clouds in numerical models. Each chapter is followed by a set of exercises.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_10",
+        "identifier": "0195066308"
+      },
+      {
+        "type": "ISBN_13",
+        "identifier": "9780195066302"
+      }
+    ],
+    "readingModes": {
+      "text": false,
+      "image": true
+    },
+    "pageCount": 580,
+    "printedPageCount": 598,
+    "dimensions": {
+      "height": "24.00 cm",
+      "width": "24.10 cm",
+      "thickness": "3.20 cm"
+    },
+    "printType": "BOOK",
+    "categories": [
+      "Nature / Weather",
+      "Science / Physics / Geophysics",
+      "Science / Earth Sciences / Meteorology & Climatology"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.5.2.0.preview.1",
+    "panelizationSummary": {
+      "containsEpubBubbles": false,
+      "containsImageBubbles": false
+    },
+    "imageLinks": {
+      "smallThumbnail": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70WVF5DndlH6ZKvJvEAXGyL0rbB8aKPqFyF1uD3o8HdnKc1FJjzV2bknkKparidnOQoerB-C62PWSFAFDE1rMYcFQI-RgRNwAMfLOnV-dCcEFpFIk4b9AN_HFP9nA0Nl9pyYRJo&source=gbs_api",
+      "thumbnail": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE70axOjXht-5GIF8aqLn52PM-KtcLacwVN2L8kLLA-FUm15NeYFVFLQCBFGIQfChJh1EC-z7qYmZxZDIhvvEXVjBkRXnhgiTuHla8a5TABUEqVJ1fx2vxaAxctBxfMb56PE5fxd4&source=gbs_api",
+      "small": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE71j3gAua_bSDmVNK7lo63eABAON9qc57TnmU5d9BwGCL4rcUxGjzkUNkjfgiaFU5ICT-9pCRW7hT_DqmmemD5EFJfl-3gj-lN14p1hDCqo5l3cnypLKD2eWp5rXlqwOrHiA0pn4&source=gbs_api",
+      "medium": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE71X3U7I4S0-mRCKbqvt8UsgDtWW7eLmNuf1rGtPZGknzn_2mP6hTIiELWE03Hvmm3hJe7B7deTJICcubOhIen4c96TrHD-YxDuq4htfgKg38P5eX4lVBaMl-m_w0De5mmQfJxSD&source=gbs_api",
+      "large": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE707p--2bpW2aLyysznwpkETpiYMlCxmAHnL6ThF0VG-WxOo7U9yn3tdJkt2KaOsp9LSU5eycraOETcT-2H_G4gF_Wwrh7ppSzZplkGUaYJSPXqQFjWsw9pkLwsUUVJgf1lLC4Vs&source=gbs_api",
+      "extraLarge": "http://books.google.com/books/content?id=VdaBBHEGAcMC&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE70iyD0sLVamJ4TwlTHcIRzU8u7Pg-CkLzurIejbmwyosolsjCXzIbDqpjLRaX84lKrMlxbypcoN2HfmfLCGtE4z__lmQBVtrJkWQqrXlWpaJDBxszoiwLoLohZOaLRQWt1Iuu9C&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.com/books?id=VdaBBHEGAcMC&hl=&source=gbs_api",
+    "infoLink": "https://play.google.com/store/books/details?id=VdaBBHEGAcMC&source=gbs_api",
+    "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VdaBBHEGAcMC"
+  },
+  "saleInfo": {
+    "country": "US",
+    "saleability": "NOT_FOR_SALE",
+    "isEbook": false
+  },
+  "accessInfo": {
+    "country": "US",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+      "isAvailable": false
+    },
+    "pdf": {
+      "isAvailable": false
+    },
+    "webReaderLink": "http://play.google.com/books/reader?id=VdaBBHEGAcMC&hl=&printsec=frontcover&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+  }
+}
